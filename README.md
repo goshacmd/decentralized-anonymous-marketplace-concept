@@ -42,7 +42,7 @@ There are three possible outcomes:
 1. the buyer and the seller do agree about the transaction, cast their "yes"-s and money goes to the seller
 2. the buyer does not agree and asks the mediator to help:
   * the mediator decides the seller didn't fulfill their part of agreement (e.g. didn't deliver) and casts a "no", and so does the buyer, then the transaction is no longer pending and the money is returned to the buyer
-  * the mediator decides the seller did fulfill their part of agreement and casts a "yes", and so does the seller, then the transaction is lo longer pending and the money reaches the seller
+  * the mediator decides the seller did fulfill their part of agreement and casts a "yes", and so does the seller, then the transaction is no longer pending and the money reaches the seller
 
 There are a few benefits to this scheme:
 
