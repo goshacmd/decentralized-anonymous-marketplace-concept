@@ -65,7 +65,7 @@ As a solution, something like this might be proposed: marketplace app is OSS and
 
 Yet, there is a little thing that makes this approach far from desirable: discoverability, for one thing. You will have to manually discover a variety of marketplaces and signup for all of them. What if there was a better way?..
 
-In fact, there is. There is this project called [Disapora](http://joindiaspora.com). Basically, it's a social network that everyone can run. The key idea is that instead of tens or hundreds of separate social networks that everyone runs, there is one. Everyone can merely run a node that will host this node's user accounts and associated data.
+In fact, there is. There is this project called [Diaspora](http://joindiaspora.com). Basically, it's a social network that everyone can run. The key idea is that instead of tens or hundreds of separate social networks that everyone runs, there is one. Everyone can merely run a node that will host this node's user accounts and associated data.
 
 It also enables for easier discovery. You can subscribe to users from various other nodes, see their posts, and so on. So it's a **federated** distributed social network.
 
