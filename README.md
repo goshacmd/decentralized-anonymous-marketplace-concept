@@ -1,8 +1,10 @@
 # Silk Road 2.0
 
-Silk Road 1.0 has demonstrated that it's possible to run an anonymous black market. While technologically it wasn't that bad, there was a critical point of failure — its centralized nature. Capture administrator and everything is doomed.
+Silk Road 1.0 has demonstrated that it's possible to run an anonymous online marketplace. While technologically it wasn't that bad, there was a critical point of failure — its centralized nature. Capture administrator and everything is doomed.
 
 Here is my proposal of a distributed anonymous marketplace that doesn't have a single point of failure.
+
+*This concept does not focus on moral issues of participating in a voluntary anonymous trade nor does it enorse a specific use of a system it describes. It is more of a concept of decentralization of current marketplaces.*
 
 Let us start by looking at some of SR 1.0 problems and try to figure a solution for them.
 
@@ -10,7 +12,7 @@ Let us start by looking at some of SR 1.0 problems and try to figure a solution 
 
 On Silk Road 1.0, every account got its internal balance. Users deposited money by sending them to DPR's wallets and the system credited the amount to their balance. On transactions between buyers & sellers, just the balances were updated and no actual money transfers took place. Moreover, the users didn't own these Bitcoin wallets so they were never in control.
 
-It is, however, a bad idea to rely on a single person and trust all the money to them. Even if they are a good person themselves, there are the bad guys with guns ("the state") that can interrupt the operation any moment and try to seize the money.
+It is, however, a bad idea to rely on a single person and trust all the money to them. Even if they are a good person themselves, there are third parties that can try to interrupt the operation any moment and try to seize the money.
 
 So, that is a problem. Now. Problem, meet solution.
 
