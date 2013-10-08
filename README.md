@@ -1,16 +1,16 @@
-# Silk Road 2.0
+# DAM (decentralized anonymous marketplace) — the concept
 
-Silk Road 1.0 has demonstrated that it's possible to run an anonymous online marketplace. While technologically it wasn't that bad, there was a critical point of failure — its centralized nature. Capture administrator and everything is doomed.
+Silk Road has demonstrated that it's possible to run an anonymous online marketplace. While technologically it wasn't that bad, there was a critical point of failure — its centralized nature. Capture administrator and everything is doomed.
 
 Here is my proposal of a distributed anonymous marketplace that doesn't have a single point of failure.
 
 *This concept does not focus on moral issues of participating in a voluntary anonymous trade nor does it enorse a specific use of a system it describes. It is more of a concept of decentralization of current marketplaces.*
 
-Let us start by looking at some of SR 1.0 problems and try to figure a solution for them.
+Let us start by looking at some of the problems that centralized marketplaces (like Silk Road) do have and try to figure a solution for them.
 
 ### Internal account balances
 
-On Silk Road 1.0, every account got its internal balance. Users deposited money by sending them to DPR's wallets and the system credited the amount to their balance. On transactions between buyers & sellers, just the balances were updated and no actual money transfers took place. Moreover, the users didn't own these Bitcoin wallets so they were never in control.
+On most of centralized markets, every account got its internal balance. Users deposited money by sending them to DPR's wallets and the system credited the amount to their balance. On transactions between buyers & sellers, just the balances were updated and no actual money transfers took place. Moreover, the users didn't own these Bitcoin wallets so they were never in control.
 
 It is, however, a bad idea to rely on a single person and trust all the money to them. Even if they are a good person themselves, there are violent third parties that can try to interrupt the operation any moment and try to seize the money.
 
@@ -20,7 +20,7 @@ The solution is seemingly obvious. Let the parties transact directly without pas
 
 You own your money and don't have to trust anyone with it. Perfect, right?
 
-But there is a reason SR needed the money to pass through its wallets. It's because there was a need in arbitration. Luckily, there is a way to arbitrate without rising your money to someone...
+But there is a reason they needed the money to pass through its wallets. It's because there was a need in arbitration. Luckily, there is a way to arbitrate without rising your money to someone...
 
 ### Arbitration
 
@@ -49,7 +49,7 @@ There are three possible outcomes:
 There are a few benefits to this scheme:
 
 * you do not have to trust your money to the mediator. At worst, the money ends up being in seller's/buyer's possession — but definitely not mediator since there is no way the mediator can change the output of transaction
-* the mediator doesn't have to be an admin or representative of SR. It can be anyone that both the buyer & the seller trust
+* the mediator doesn't have to be an admin or representative of the marketplace. It can be anyone that both the buyer & the seller trust
 
 Inviting a third party mediator is an interesting idea, as it also removes the dependency on marketplace owner to mediate your dispute... but how would it work?
 
@@ -77,7 +77,7 @@ From the user perspective though, there will be a single unified catalog of vari
 
 ## Wrap up
 
-The solution I propose will allow to get rid of centralization that SR 1.0 have had and hence there won't be a single point of failure (central authority). The federated distributed marketplace will be much more difficult to shut down. And even in the case of shut down, no one is loosing their money.
+The solution I propose will allow to get rid of centralization so that there won't be a single point of failure (central authority). The federated distributed marketplace will be much more difficult to shut down. And even in the case of shut down, no one is loosing their money.
 
 These are basically my thoughts on how such a system could be implemented. It's very likely that I missed something important or didn't fully think it through. All feedback would be highly appreciated.
 
