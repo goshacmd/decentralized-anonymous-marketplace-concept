@@ -75,7 +75,7 @@ A similar concept can be applied to anonymous marketplaces as well. Everyone can
 
 From the user perspective though, there will be a single unified catalog of various goods.
 
-Wrap up
+## Wrap up
 
 The solution I propose will allow to get rid of centralization so that there won't be a single point of failure (central authority). The federated distributed marketplace will be much more difficult to shut down. And even in the case of shut down, no one is losing their money.
 
