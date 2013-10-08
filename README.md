@@ -12,7 +12,7 @@ Let us start by looking at some of SR 1.0 problems and try to figure a solution 
 
 On Silk Road 1.0, every account got its internal balance. Users deposited money by sending them to DPR's wallets and the system credited the amount to their balance. On transactions between buyers & sellers, just the balances were updated and no actual money transfers took place. Moreover, the users didn't own these Bitcoin wallets so they were never in control.
 
-It is, however, a bad idea to rely on a single person and trust all the money to them. Even if they are a good person themselves, there are third parties that can try to interrupt the operation any moment and try to seize the money.
+It is, however, a bad idea to rely on a single person and trust all the money to them. Even if they are a good person themselves, there are violent third parties that can try to interrupt the operation any moment and try to seize the money.
 
 So, that is a problem. Now. Problem, meet solution.
 
