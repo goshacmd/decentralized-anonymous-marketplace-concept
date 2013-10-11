@@ -4,7 +4,7 @@ Silk Road has demonstrated that it's possible to run an anonymous online marketp
 
 Here is my proposal of a distributed anonymous marketplace that doesn't have a single point of failure.
 
-*This concept does not focus on moral issues of participating in a voluntary anonymous trade nor does it enorse a specific use of a system it describes. It is more of a concept of decentralization of current marketplaces.*
+*This concept does not focus on moral issues of participating in a voluntary anonymous trade nor does it endorse a specific use of a system it describes. It is more of a concept of decentralization of current marketplaces.*
 
 Let us start by looking at some of the problems that centralized marketplaces (like Silk Road) do have and try to figure a solution for them.
 
